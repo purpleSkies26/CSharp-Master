@@ -8,7 +8,7 @@ namespace sharp
 	{
 		public static void Main(string[] args)
 		{		
-			String path = @"C:\Users\admin\Documents\SharpDevelop\readfile\file.txt";
+			String path = @"path";
 			
 			 using (StreamReader sr = new StreamReader(path, true))
 			 {
